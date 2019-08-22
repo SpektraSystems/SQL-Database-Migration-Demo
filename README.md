@@ -131,7 +131,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 5. Click **Assess and migrate databases**  
 
-<img src="/images/asses-migrate-databases.png.png">    
+<img src="/images/asses-migrate-databases.png">    
 
 6. Click on the **change** link to change the Migration project to be loaded.  
 
