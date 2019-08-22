@@ -130,6 +130,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/asses-migrate-databases.png.png">    
 
+6. Click on the **change** link to change the Migration project to be loaded.  
+
+<img src="/images/change-migrate-project.png">   
+
 
 
 
