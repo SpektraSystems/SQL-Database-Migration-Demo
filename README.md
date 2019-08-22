@@ -149,6 +149,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/asses-number-of-instances.png">   
 
+10. The readiness status and the number of databases will be displayed.  
+
+<img src="/images/readiness-status-instance.png">   
+
 
 ## PART 3: SKU Recommendations
 
