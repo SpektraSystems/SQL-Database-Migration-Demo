@@ -52,6 +52,14 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/enter-dma-details-01.png">  
 
+14. Check **Check database compatibility** option.  
+
+17. Check **Check feature parity** option.   
+
+18. Once selected click **Next**. 
+
+<img src="/images/select-report-type.png">  
+
 
 
 
