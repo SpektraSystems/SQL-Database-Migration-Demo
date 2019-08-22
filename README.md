@@ -69,6 +69,8 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 20. In **Add sources** pane: Select the first 35 databases, starting from **Accomodation X** and the last database to be selected being  **Innovation X-HR**.  
 
+21. Click on **Add**.  
+
 <img src="/images/first35databases.png">  
 
 
