@@ -180,4 +180,11 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 8. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.  
 
+9. For doing the above operations for SQL MI, proceed as follows.  
+
+10.Open **C:\DMA\prices_SQL_MI.html** file.  
+
+11. Point to the Subscription information area.  
+
+12. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.
 
