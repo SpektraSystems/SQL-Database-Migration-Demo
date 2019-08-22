@@ -134,6 +134,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/change-migrate-project.png">   
 
+7. Select the appropriate **Subscription** and **Migrate Project** and click on **OK**.  
+
+<img src="/images/migrate-project-settings.png">  
+
 
 
 
