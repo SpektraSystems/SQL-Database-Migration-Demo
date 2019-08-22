@@ -4,7 +4,10 @@
 
 <img src="/images/lab-details-page.png">   
 
-2. 
+2. Open the **SQL Server Management Studio** as shown below:  
+
+<img src="/images/sqlmgmtstudio-select.png">   
+
 
 
 
