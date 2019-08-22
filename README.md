@@ -141,6 +141,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/migrate-project-settings.png">  
 
+8. The assesment we uploaded in the above steps will be displayed.  
+
+<img src="/images/uploaded-report-migrate.png">   
+
 
 ## PART 3: SKU Recommendations
 
