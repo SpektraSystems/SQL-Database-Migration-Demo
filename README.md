@@ -153,6 +153,9 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/readiness-status-instance.png">   
 
+11. The database readiness for different targets will be displayed.  
+
+<img src="/images/database-readiness-targets.png">   
 
 ## PART 3: SKU Recommendations
 
