@@ -8,6 +8,16 @@
 
 <img src="/images/sqlmgmtstudio-select.png">   
 
+3. Connect to SQL Instances. In the Connect to Server window from the Server name dropdown select SQLSERVER-01 (default sql instance).    
+
+5. Select **Windows Authentication** in the Authentication dropdown.  
+
+6. Click the **Connect** button to connect to the instance.  
+
+<img src="/images/sqlserver-connect-ssms.png">  
+
+
+
 
 
 
