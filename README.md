@@ -26,39 +26,47 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 3. Connect to SQL Instances. In the Connect to Server window from the Server name dropdown select SQLSERVER-01 (default sql instance).    
 
-5. Select **Windows Authentication** in the Authentication dropdown.  
+4. Select **Windows Authentication** in the Authentication dropdown.  
 
-6. Click the **Connect** button to connect to the instance.  
+5. Click the **Connect** button to connect to the instance.  
 
 <img src="/images/sqlserver-connect-ssms.png">   
 
-7. In Object Explorer, expand the Database nodes corresponding to the loaded instance.  
+6. In Object Explorer, expand the Database nodes corresponding to the loaded instance.  
 
 <img src="/images/databases-loaded.png">   
 
-8. Go to the Desktop, open **Microsoft Data Migration Assistant**      
+7. Go to the Desktop, open **Microsoft Data Migration Assistant**      
 
 <img src="/images/click-dma-icon.png">    
 
-9. In Data Migration Assistant, click on **+** to start a new Migration project.   
+8. In Data Migration Assistant, click on **+** to start a new Migration project.   
 
-10. Enter Project name: **Migration Demo** (User defined field so feel free to use any name you like).    
+9. Enter Project name: **Migration Demo** (User defined field so feel free to use any name you like).    
 
-11. Select **SQL Server** from the **Source server type** drop down (Articulate or talk about the support for AWS RDS for SQL Server workloads)    
+10. Select **SQL Server** from the **Source server type** drop down (Articulate or talk about the support for AWS RDS for SQL Server workloads)    
 
-12. Select **Azure SQL Database Managed Instance** from the **Target server type** drop down.  
+11. Select **Azure SQL Database Managed Instance** from the **Target server type** drop down.  
 
-13. Click on **Create**.  
+12. Click on **Create**.  
 
 <img src="/images/enter-dma-details-01.png">  
 
-14. Check **Check database compatibility** option.  
+13. Check **Check database compatibility** option.  
 
-17. Check **Check feature parity** option.   
+14. Check **Check feature parity** option.   
 
-18. Once selected click **Next**. 
+15. Once selected click **Next**. 
 
 <img src="/images/select-report-type.png">  
+
+16. For Server name, type the Source SQL server: **sqlserver-01** (that we connected to in step 4)  
+17. In Authentication type, select **Windows Authentication**.
+18. In Connection properties: Check: Encrypt Connection Check: Trust server certificate   
+22. Click **Connect**.  
+
+<img src="/images/connect-to-server-dma.png">  
+
 
 
 
