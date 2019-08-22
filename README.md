@@ -112,6 +112,15 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 ## PART 2: Azure Migration   
 
+1. Login to Azure with the credentials provided in the lab details page.  
+
+<img src="/images/azure-credentials.png">  
+
+2. On the Azure home page, Click on **Create a resource** search for **Azure Migrate** in the top search box.  
+
+3. Select **Azure Migrate** from the services pane.    
+
+<img src="/images/azure-migrate-azure-portal.png">  
 
 
 
