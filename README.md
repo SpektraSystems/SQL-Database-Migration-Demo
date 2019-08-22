@@ -38,9 +38,15 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 8. Go to the Desktop, open **Microsoft Data Migration Assistant**      
 
-<img src="/images/click-dma-icon.png">   
+<img src="/images/click-dma-icon.png">    
 
+9. In Data Migration Assistant, click on + to start a new Migration project.   
 
+13. Enter Project name: Migration Demo (User defined field so feel free to use any name you like).    
+
+14. Select SQL Server from the ‘Source server type’ drop down (Articulate or talk about the support for AWS RDS for SQL Server workloads)    
+
+<img src="/images/enter-dma-details-01.png">  
 
 
 
