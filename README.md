@@ -6,7 +6,7 @@
 
 [Part 2: Azure Migration](#part-2-azure-migration)
 
-[Part 3: SKU Recommendations](#part-3-sku-migration-recommendations)  
+[Part 3: SKU Recommendations](#part-3-sku-recommendations)  
 
 
 ## About this demo  
