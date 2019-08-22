@@ -161,14 +161,15 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 1. Open **Power Shell**.  
 
-2. Type command below and press enter cd **c:\Program Files\Microsoft Data Migration Assistant**.  
+2. Type command below and press **Enter**.  
+      _cd "c:\Program Files\Microsoft Data Migration Assistant"_  
 
 3. Execute the following command in Power Shell.  
 
-.\SkuRecommendationDataCollectionScript.ps1 -ComputerName sqlserver-01 -OutputFilePath C:\DMA\counters.csv -CollectionTimeInSeconds 2400 -DbConnectionString "Server=localhost;Initial Catalog=master;Integrated Security=SSPI;"
+    _.\SkuRecommendationDataCollectionScript.ps1 -ComputerName sqlserver-01 -OutputFilePath C:\DMA\counters.csv -CollectionTimeInSeconds 2400 -DbConnectionString "Server=localhost;Initial Catalog=master;Integrated Security=SSPI;"_  
 
 4. Execute following command in Power Shell.  
 
-.\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true  
+    _.\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true_    
 
 5. Go to Output directory: c:\dma\  
