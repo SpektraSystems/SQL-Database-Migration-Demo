@@ -32,8 +32,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/sqlserver-connect-ssms.png">   
 
-7. In Object Explorer, expand the Database nodes in both instances.  
-10. Point to the transactional databases (default instance).  
+7. In Object Explorer, expand the Database nodes corresponding to the loaded instance.  
+
+<img src="/images/databases-loaded.png">  
+
 
 
 
