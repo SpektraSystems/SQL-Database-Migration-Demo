@@ -150,7 +150,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 3. Execute the following command in Power Shell.  
 
-.\SkuRecommendationDataCollectionScript.ps1 -ComputerName migrationdemo -OutputFilePath C:\DMA\counters.csv -CollectionTimeInSeconds 2400 -DbConnectionString "Server=localhost;Initial Catalog=master;Integrated Security=SSPI;"
+.\SkuRecommendationDataCollectionScript.ps1 -ComputerName sqlserver-01 -OutputFilePath C:\DMA\counters.csv -CollectionTimeInSeconds 2400 -DbConnectionString "Server=localhost;Initial Catalog=master;Integrated Security=SSPI;"
 
 4. Execute following command in Power Shell.  
 
