@@ -103,6 +103,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/azure-credentials.png">  
 
+33. Select the appropriate **Subscription** and the **Migration Project**.  
+
+<img src="/images/upload-azure-migrate-mi.png">  
+
 
 
 
