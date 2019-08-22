@@ -182,7 +182,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 9. For doing the above operations for SQL MI, proceed as follows.  
 
-10.Open **C:\DMA\prices_SQL_MI.html** file.  
+10. Open **C:\DMA\prices_SQL_MI.html** file.  
 
 11. Point to the Subscription information area.  
 
