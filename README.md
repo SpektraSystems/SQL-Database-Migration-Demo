@@ -145,6 +145,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/uploaded-report-migrate.png">   
 
+9. Click on the number next to **Assessed database instances**.  
+
+<img src="/images/asses-number-of-instances.png">   
+
 
 ## PART 3: SKU Recommendations
 
