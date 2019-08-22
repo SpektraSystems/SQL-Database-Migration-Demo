@@ -180,4 +180,4 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 8. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.  
 
-9. Point to the 55% savings check box.
+
