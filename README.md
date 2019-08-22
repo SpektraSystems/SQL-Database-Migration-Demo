@@ -34,7 +34,13 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 7. In Object Explorer, expand the Database nodes corresponding to the loaded instance.  
 
-<img src="/images/databases-loaded.png">  
+<img src="/images/databases-loaded.png">   
+
+8. Go to the Desktop, open **Microsoft Data Migration Assistant**      
+
+<img src="/images/click-dma-icon.png">   
+
+
 
 
 
