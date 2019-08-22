@@ -63,9 +63,15 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 16. For Server name, type the Source SQL server: **sqlserver-01** (that we connected to in step 4)  
 17. In Authentication type, select **Windows Authentication**.
 18. In Connection properties: Check: Encrypt Connection Check: Trust server certificate   
-22. Click **Connect**.  
+19. Click **Connect**.  
 
 <img src="/images/connect-to-server-dma.png">  
+
+20. In **Add sources** pane: Select the first 35 databases, starting from **Accomodation X** and the last database to be selected being  **Innovation X-HR**.  
+
+<img src="/images/first35databases.png">  
+
+
 
 
 
