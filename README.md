@@ -2,7 +2,7 @@
 
 [About this demo](#about-this-demo)
 
-[Part 1: Data Migration Assistance](https://github.com/SpektraSystems/Azure-MySQL-DMS-Lab/blob/master/Module%201:%20Azure%20Database%20for%20MySQL.md)
+[Part 1: Data Migration Assistance](#part-1-data-migration-assistance)
 
 [Part 2: ](https://github.com/SpektraSystems/Azure-MySQL-DMS-Lab/blob/master/Module%202:%20Migrate%20MySQL%20to%20Azure%20Database%20for%20MySQL%20online%20using%20DMS.md)
 
