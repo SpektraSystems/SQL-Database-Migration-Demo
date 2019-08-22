@@ -1,5 +1,11 @@
 # SQL Database Migration Demo  
 
+[About this demo](#about-this-demo)
+
+[Part 1: Data Migration Assistance](https://github.com/SpektraSystems/Azure-MySQL-DMS-Lab/blob/master/Module%201:%20Azure%20Database%20for%20MySQL.md)
+
+[Part 2: ](https://github.com/SpektraSystems/Azure-MySQL-DMS-Lab/blob/master/Module%202:%20Migrate%20MySQL%20to%20Azure%20Database%20for%20MySQL%20online%20using%20DMS.md)
+
 ## About this demo  
 
 The way people consume books has changed, with audiobooks and digital downloads transforming the publishing industry. Nod Publishers wants to migrate their on-premises SQL 2008 R2 workload to the cloud. With this cloud transformation they can upscale user experience with the latest and greatest of cloud technologies. Nod Publishers is a digital platform that offers unlimited audiobooks and digital downloads to avid readers. Powered by Microsoft Azure, the Nod Publisher subscription platform uses advanced analytics to provide subscribers with personalized recommendations based on their interests—and it’s seen 100 percent growth year on year. This demo is based on the real customer scenario.  
