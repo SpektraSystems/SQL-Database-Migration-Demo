@@ -14,9 +14,10 @@
 
 6. Click the **Connect** button to connect to the instance.  
 
-<img src="/images/sqlserver-connect-ssms.png">  
+<img src="/images/sqlserver-connect-ssms.png">   
 
-
+7. In Object Explorer, expand the Database nodes in both instances.  
+10. Point to the transactional databases (default instance).  
 
 
 
