@@ -155,3 +155,5 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 4. Execute following command in Power Shell.  
 
 .\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true  
+
+5. Go to Output directory: c:\dma\  
