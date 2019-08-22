@@ -40,11 +40,15 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/click-dma-icon.png">    
 
-9. In Data Migration Assistant, click on + to start a new Migration project.   
+9. In Data Migration Assistant, click on **+** to start a new Migration project.   
 
-13. Enter Project name: Migration Demo (User defined field so feel free to use any name you like).    
+10. Enter Project name: **Migration Demo** (User defined field so feel free to use any name you like).    
 
-14. Select SQL Server from the ‘Source server type’ drop down (Articulate or talk about the support for AWS RDS for SQL Server workloads)    
+11. Select **SQL Server** from the **Source server type** drop down (Articulate or talk about the support for AWS RDS for SQL Server workloads)    
+
+12. Select **Azure SQL Database Managed Instance** from the **Target server type** drop down.  
+
+13. Click on **Create**.  
 
 <img src="/images/enter-dma-details-01.png">  
 
