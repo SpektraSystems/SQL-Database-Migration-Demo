@@ -77,7 +77,15 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/start-assesment-mi.png">  
 
-23. 
+23. Select **SQL Server feature parity**  
+
+24. Select/Expand Unsupported feature.  
+
+25. Point to the **Impact and generated recommendations**.  
+
+<img src="/images/sqlserverparity-mi.png">  
+
+
 
 
 
