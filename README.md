@@ -122,9 +122,9 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/azure-migrate-azure-portal.png">  
 
+4. Click on **Create**.  
 
-
-
+<img src="/images/azure-migrate-click.png">  
 
 
 
