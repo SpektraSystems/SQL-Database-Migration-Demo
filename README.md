@@ -128,9 +128,8 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 5. Click **Assess and migrate databases**  
 
-<img src="/images/azure-migrate-click.png">  
+<img src="/images/azure-migrate-click.png">   
 
-6. Click on Assess and migrate databases.  
 
-<img src="/images/asses-migrate-databases.png">   
+
 
