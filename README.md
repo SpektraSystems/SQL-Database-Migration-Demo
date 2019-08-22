@@ -73,8 +73,11 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/first35databases.png">  
 
+22. Click **Start Assessment**  
 
+<img src="/images/start-assesment-mi.png">  
 
+23. 
 
 
 
