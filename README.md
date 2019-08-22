@@ -99,6 +99,10 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/compatibilityissues-mi.png">     
 
+32. You will be asked to login to your azure account. Sign in to your Azure Account using the credentials provided in the lab details page:  
+
+<img src="/images/azure-credentials.png">  
+
 
 
 
