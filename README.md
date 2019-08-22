@@ -172,4 +172,12 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
     _.\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true_    
 
-5. Go to Output directory: c:\dma\  
+5. Go to Output directory: **C:\DMA\**  
+
+6. Open **C:\dma\prices_SQL_DB.html** file.  
+
+7. Point to the Subscription information area.  
+
+8. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.  
+
+9. Point to the 55% savings check box.
