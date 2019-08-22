@@ -85,6 +85,20 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/sqlserverparity-mi.png">  
 
+26. Switch to the **Compatibility issues**.  
+
+27. Toggle between databases to see Compatibility issues.  
+
+28. Select **Adventure Work Associates** database.  
+
+29. Select/Expand Migration blocker.  
+
+30. Point to the **Impact and generated recommendations**.  
+
+31. Click on **Upload to Azure Migrate** button.  
+
+<img src="/images/compatibilityissues-mi.png">     
+
 
 
 
