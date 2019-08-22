@@ -6,6 +6,9 @@
 
 [Part 2: Azure Migration](#part-2-azure-migration)
 
+[Part 3: SKU Recommendations](#part-3-sku-migration-recommendations)  
+
+
 ## About this demo  
 
 The way people consume books has changed, with audiobooks and digital downloads transforming the publishing industry. Nod Publishers wants to migrate their on-premises SQL 2008 R2 workload to the cloud. With this cloud transformation they can upscale user experience with the latest and greatest of cloud technologies. Nod Publishers is a digital platform that offers unlimited audiobooks and digital downloads to avid readers. Powered by Microsoft Azure, the Nod Publisher subscription platform uses advanced analytics to provide subscribers with personalized recommendations based on their interests—and it’s seen 100 percent growth year on year. This demo is based on the real customer scenario.  
@@ -139,5 +142,5 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 <img src="/images/migrate-project-settings.png">  
 
 
-
+## PART 3: SKU Recommendations
 
