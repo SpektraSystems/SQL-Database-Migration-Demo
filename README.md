@@ -172,7 +172,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
     _.\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true_    
 
-5. Go to Output directory: **C:\DMA\**  
+5. Go to Output directory **C:\DMA\**  
 
 6. Open **C:\dma\prices_SQL_DB.html** file.  
 
