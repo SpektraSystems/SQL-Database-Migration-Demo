@@ -187,3 +187,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/generate-provisioning-script-sqldb.png">  
 
+6.  To perform the above steps for SQL Managed Instance, navigate to the Desktop and click on the **prices_SQL_MI.html** file.  
+
+<img src="/images/prices-sqlmi-html-click.png">   
+
