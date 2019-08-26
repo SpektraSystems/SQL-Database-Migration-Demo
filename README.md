@@ -157,34 +157,74 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/database-readiness-targets.png">   
 
-## PART 3: SKU Recommendations
+## PART 3: SKU Recommendations  
+The SKU Recommendations feature of the DMA allows you to identify both the minimum recommended Azure SQL Database single database or managed instance SKU based on performance counters collected from the computer(s) hosting your databases. This feature provides recommendations related to pricing tier, compute level, and max data size, as well as estimated cost per month. In this case, the PowerShell scripts are pre-executed and the results are stored in the Desktop.  
 
-1. Open **Power Shell**.  
+1.  Navigate to the Desktop and click on the **prices_SQL_DB.html** file.  
 
-2. Type command below and press **Enter**.  
-      _cd "c:\Program Files\Microsoft Data Migration Assistant"_  
+<img src="/images/prices_sql_db_click.png">   
 
-3. Execute the following command in Power Shell.  
+2.  In the **Subscription Information** region, enter the following details.  
 
-    _.\SkuRecommendationDataCollectionScript.ps1 -ComputerName sqlserver-01 -OutputFilePath C:\DMA\counters.csv -CollectionTimeInSeconds 2400 -DbConnectionString "Server=localhost;Initial Catalog=master;Integrated Security=SSPI;"_  
+    *  Subscription Id  
+    *  Region  
+    *  Resource group  
+    *  Server Name  
+    *  Server Admin Username  
+    *  Server Admin Password  
+    
+These details will be used to generate the PowerShell script that can be used to provision the databases.    
 
-4. Execute following command in Power Shell.  
+<img src="/images/subscription-information-sqldb-html.png">  
 
-    _.\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true_    
+3.  Adjust the sliders corresponding to **Compute Level** and **Max Data Size** if you wish to make changes to the default configuration. All the changes made by adjusting the sliders will be reflected in the PowerShell script that will be generated and the value corresponding to the **Est.Cost Per Month** will also change accordingly.  
 
-5. Go to Output directory **C:\DMA\**  
+<img src="/images/complevel-datasize-slider.png">  
 
-6. Open **C:\dma\prices_SQL_DB.html** file.  
+4.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
 
-7. Point to the Subscription information area.  
+5.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases. **C:\Users\migdemo\Downloads\**    
 
-8. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.  
+<img src="/images/generate-provisioning-script-sqldb.png">  
 
-9. For doing the above operations for SQL MI, proceed as follows.  
+6.  To perform the above steps for SQL Managed Instance, navigate to the Desktop and click on the **prices_SQL_MI.html** file.  
 
-10. Open **C:\DMA\prices_SQL_MI.html** file.  
+<img src="/images/prices-sqlmi-html-click.png">   
 
-11. Point to the Subscription information area.  
 
-12. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.
+7.  In the **Subscription Information** region, enter the following details.  
+
+    *  Subscription Id  
+    *  Resource group   
+    *  Region   
+    *  Instance Name  
+    *  Instance Admin Username  
+    *  Instance Admin Password  
+    *  Vnet Name  
+    *  Subnet Name
+    
+These details will be used to generate the PowerShell script that can be used to provision the Managed Instance.    
+
+<img src="/images/subscription-information-sqlmi-html.png">    
+
+
+8.  Adjust the sliders corresponding to **Compute Level** and **Max Data Size** if you wish to make changes to the default configuration. All the changes made by adjusting the sliders will be reflected in the PowerShell script that will be generated and the value corresponding to the **Est.Cost Per Month** will also change accordingly.  
+
+<img src="/images/complevel-datasize-slider-sqlmi.png">  
+
+9.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
+
+10.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases. The script will be downloaded to **C:\Users\migdemo\Downloads\**  
+
+<img src="/images/generate-provisioning-script-sqldb.png">  
+
+11. For the purpose of this demo, the scripts for provisioning Azure SQL Databases and Azure SQL Managed Instances are pre-generated and stored in **C:\Users\migdemo\Desktop\Generated Scripts**.
+
+12. Click on **Generated Scripts** folder in the Desktop.  
+
+<img src="/images/generatedscripts-desktop.png">  
+
+13.  The scripts for provisioning the Azure SQL Databases(**sqldbScript.ps1**) and Azure SQL Managed Instance(**sqlmiScript.ps1**) will be present in the folder.  
+
+<img src="/images/generatedscripts-content.png">   
 
