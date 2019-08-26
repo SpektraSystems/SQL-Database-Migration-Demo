@@ -214,7 +214,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 9.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
 
-10.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases. The script will be downloaded to **C:\Users\migdemo\Downloads\**  
+10.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases. The script will be downloaded to **C:\Users\migdemo\Downloads\**.      
 
 <img src="/images/generate-provisioning-script-sqldb.png">  
 
