@@ -206,3 +206,14 @@ These details will be used to generate the PowerShell script that can be used to
 These details will be used to generate the PowerShell script that can be used to provision the Managed Instance.    
 
 <img src="/images/subscription-information-sqlmi-html.png">    
+
+
+8.  Adjust the sliders corresponding to **Compute Level** and **Max Data Size** if you wish to make changes to the default configuration. All the changes made by adjusting the sliders will be reflected in the PowerShell script that will be generated and the value corresponding to the **Est.Cost Per Month** will also change accordingly.  
+
+<img src="/images/complevel-datasize-slider-sqlmi.png">  
+
+9.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
+
+10.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases.  
+
+<img src="/images/generate-provisioning-script-sqldb.png">  
