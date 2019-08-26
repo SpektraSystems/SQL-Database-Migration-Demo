@@ -223,3 +223,8 @@ These details will be used to generate the PowerShell script that can be used to
 12. Click on **Generated Scripts** folder in the Desktop.  
 
 <img src="/images/generatedscripts-desktop.png">  
+
+13.  The scripts for provisioning the Azure SQL Databases and Azure SQL Managed Instances will be present in the folder.  
+
+<img src="/images/generatedscripts-content.png">   
+
