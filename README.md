@@ -176,3 +176,8 @@ The SKU Recommendations feature of the DMA allows you to identify both the minim
 These details will be used to generate the PowerShell script that can be used to provision the databases.    
 
 <img src="/images/subscription-information-sqldb-html.png">  
+
+3.  Adjust the sliders corresponding to **Compute Level** and **Max Data Size** if you wish to make changes to the default configuration. All the changes made by adjusting the sliders will be reflected in the PowerShell script that will be generated and the value corresponding to the **Est.Cost Per Month** will also change accordingly.  
+
+<img src="/images/complevel-datasize-slider.png">  
+
