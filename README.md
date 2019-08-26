@@ -157,6 +157,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/database-readiness-targets.png">   
 
-## PART 3: SKU Recommendations
+## PART 3: SKU Recommendations  
+The SKU Recommendations feature of the DMA allows you to identify both the minimum recommended Azure SQL Database single database or managed instance SKU based on performance counters collected from the computer(s) hosting your databases. This feature provides recommendations related to pricing tier, compute level, and max data size, as well as estimated cost per month. In this case, the PowerShell scripts are pre-executed and the results are stored in the Desktop.  
 
-1.  Click
+1.  Navigate to the Desktop and click on the **prices_SQL_DB.html** file.  
