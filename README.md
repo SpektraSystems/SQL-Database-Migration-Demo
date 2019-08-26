@@ -162,4 +162,17 @@ The SKU Recommendations feature of the DMA allows you to identify both the minim
 
 1.  Navigate to the Desktop and click on the **prices_SQL_DB.html** file.  
 
-<img src="/images/prices_sql_db_click.png">  
+<img src="/images/prices_sql_db_click.png">   
+
+2.  In the **Subscription Information** region, enter the following details.  
+
+    *  Subscription Id  
+    *  Region  
+    *  Resource group  
+    *  Server Name  
+    *  Server Admin Username  
+    *  Server Admin Password  
+    
+These details will be used to generate the PowerShell script that can be used to provision the databases.    
+
+<img src="/images/subscription-information-sqldb-html.png">  
