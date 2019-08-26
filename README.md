@@ -159,32 +159,4 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 ## PART 3: SKU Recommendations
 
-1. Open **Power Shell**.  
-
-2. Type command below and press **Enter**.  
-      _cd "c:\Program Files\Microsoft Data Migration Assistant"_  
-
-3. Execute the following command in Power Shell.  
-
-    _.\SkuRecommendationDataCollectionScript.ps1 -ComputerName sqlserver-01 -OutputFilePath C:\DMA\counters.csv -CollectionTimeInSeconds 2400 -DbConnectionString "Server=localhost;Initial Catalog=master;Integrated Security=SSPI;"_  
-
-4. Execute following command in Power Shell.  
-
-    _.\DmaCmd.exe /Action=SkuRecommendation /SkuRecommendationInputDataFilePath="C:\dma\counters.csv" /SkuRecommendationTsvOutputResultsFilePath="C:\dma\prices.tsv" /SkuRecommendationJsonOutputResultsFilePath="C:\dma\prices.json" /SkuRecommendationOutputResultsFilePath="C:\dma\prices.html" /SkuRecommendationPreventPriceRefresh=true_    
-
-5. Go to Output directory **C:\DMA\**  
-
-6. Open **C:\dma\prices_SQL_DB.html** file.  
-
-7. Point to the Subscription information area.  
-
-8. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.  
-
-9. For doing the above operations for SQL MI, proceed as follows.  
-
-10. Open **C:\DMA\prices_SQL_MI.html** file.  
-
-11. Point to the Subscription information area.  
-
-12. Slide **Compute Level** and/or **Max Data Size slider**, Point to the **Est. Cost**.
-
+1.  Click
