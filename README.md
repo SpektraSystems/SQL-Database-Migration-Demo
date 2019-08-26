@@ -224,7 +224,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/generatedscripts-desktop.png">  
 
-13.  The scripts for provisioning the Azure SQL Databases(sqldbScript.ps1) and Azure SQL Managed Instance(sqlmiScript.ps1) will be present in the folder.  
+13.  The scripts for provisioning the Azure SQL Databases(**sqldbScript.ps1**) and Azure SQL Managed Instance(**sqlmiScript.ps1**) will be present in the folder.  
 
 <img src="/images/generatedscripts-content.png">   
 
