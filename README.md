@@ -183,7 +183,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 4.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
 
-5.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases.  
+5.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases. **C:\Users\migdemo\Downloads\**    
 
 <img src="/images/generate-provisioning-script-sqldb.png">  
 
@@ -214,6 +214,12 @@ These details will be used to generate the PowerShell script that can be used to
 
 9.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
 
-10.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases.  
+10.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases. The script will be downloaded to **C:\Users\migdemo\Downloads\**  
 
 <img src="/images/generate-provisioning-script-sqldb.png">  
+
+11. For the purpose of this demo, the scripts for provisioning Azure SQL Databases and Azure SQL Managed Instances are pre-generated and stored in **C:\Users\migdemo\Desktop\Generated Scripts**.
+
+12. Click on **Generated Scripts** folder in the Desktop.  
+
+<img src="/images/generatedscripts-desktop.png">  
