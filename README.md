@@ -181,3 +181,9 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/complevel-datasize-slider.png">  
 
+4.  Check the box corresponding to **I already have a SQL Server License (up to 55% savings)**.  
+
+5.  Click on the **Generate Provisioning Script** button if you wish to generate the powershell script that can be used to provision the databases.  
+
+<img src="/images/generate-provisioning-script-sqldb.png">  
+
