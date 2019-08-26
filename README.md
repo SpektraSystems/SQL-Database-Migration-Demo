@@ -191,3 +191,18 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/prices-sqlmi-html-click.png">   
 
+
+7.  In the **Subscription Information** region, enter the following details.  
+
+    *  Subscription Id  
+    *  Resource group   
+    *  Region   
+    *  Instance Name  
+    *  Instance Admin Username  
+    *  Instance Admin Password  
+    *  Vnet Name  
+    *  Subnet Name
+    
+These details will be used to generate the PowerShell script that can be used to provision the Managed Instance.    
+
+<img src="/images/subscription-information-sqlmi-html.png">    
