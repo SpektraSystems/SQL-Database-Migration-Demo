@@ -72,7 +72,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/connect-to-server-dma.png">  
 
-20. In **Add sources** pane: Select the first 35 databases, starting from **Accomodation X** and the last database to be selected being  **Innovation X-HR**.  
+20. In **Add sources** pane: Select all the databases, starting from **Accomodation X**.
 
 21. Click on **Add**.  
 
