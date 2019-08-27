@@ -230,7 +230,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/generatedscripts-content.png">   
 
-## Part 4  
+## Part 4:   
 
 1. Login to the Azure Portal with the credentials provided in the Lab details page.  
 
@@ -261,7 +261,10 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/click-mig-activity.png">   
 
-7. All the databses which are being migrated will be displayed as shown below.  
-
+7. All the databses which are being migrated will be displayed as shown below. Click on the database **Adworks40** to view the status.    
 <img src="/images/log-shipping-progress.png">   
+
+8.  The migration details of the database will be displayed as below. Under the **Database Status** you can see that the current status is **Log Shipping in progress**. Once the migration is complete, the **Start Cutover** button will be active and the cutover can be performed by clicking the **Start Cutover** button.  
+
+<img src="/images/start-cutover-grey.png">   
 
