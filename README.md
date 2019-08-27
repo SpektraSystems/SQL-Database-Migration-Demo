@@ -72,11 +72,11 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/connect-to-server-dma.png">  
 
-20. In **Add sources** pane: Select all the databases, starting from **Accomodation X**.
+20. In **Add sources** pane: Select all the databases by checking on the box corresponding to **sqlserver-01**.
 
 21. Click on **Add**.  
 
-<img src="/images/first35databases.png">  
+<img src="/images/select-all-db-dma.png">  
 
 22. Click **Start Assessment**  
 
