@@ -80,7 +80,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 22. Click **Start Assessment**  
 
-<img src="/images/start-assesment-mi.png">  
+<img src="/images/start-assesment-mi-98db.png">  
 
 23. Select **SQL Server feature parity**  
 
