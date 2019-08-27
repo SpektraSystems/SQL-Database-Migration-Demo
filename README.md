@@ -25,7 +25,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/lab-details-page.png">   
 
-2. Open the **SQL Server Management Studio** as shown below:  
+2. To open the **SQL Server Management Studio**, click on the SQL Server Management Studio icon on the Taskbar as shown below.     
 
 <img src="/images/sqlmgmtstudio-select.png">   
 
