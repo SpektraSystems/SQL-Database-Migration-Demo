@@ -244,3 +244,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/click-dms.png">   
 
+4. The migration Projects available under the **SQLMigrationDemo-DMS** will be displayed as shown below.  
+
+<img src="/images/click-mig-project.png">   
+
