@@ -8,7 +8,7 @@
 
 [Part 3: SKU Recommendations](#part-3-sku-recommendations)  
 
-[Part 4: ](#part-3-sku-recommendations)  
+[Part 4: SQL Migration Experience](#part-4-sql-migration-experience)  
 
 
 ## About this demo  
@@ -230,7 +230,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/generatedscripts-content.png">   
 
-## Part 4:   
+## Part 4: SQL Migration Experience   
 
 1. Login to the Azure Portal with the credentials provided in the Lab details page.  
 
