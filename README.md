@@ -8,6 +8,8 @@
 
 [Part 3: SKU Recommendations](#part-3-sku-recommendations)  
 
+[Part 4: ](#part-3-sku-recommendations)  
+
 
 ## About this demo  
 
@@ -228,3 +230,8 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/generatedscripts-content.png">   
 
+## Part 4  
+
+1. Login to the Azure Portal with the credentials provided in the Lab details page.  
+
+<img src="/images/azure-credentials.png">   
