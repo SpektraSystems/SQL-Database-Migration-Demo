@@ -261,4 +261,7 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/click-mig-activity.png">   
 
+7. All the databses which are being migrated will be displayed as shown below.  
+
+<img src="/images/log-shipping-progress.png">   
 
