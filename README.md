@@ -143,7 +143,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 <img src="/images/migrate-project-settings.png">  
 
-8. The assesment we uploaded in the above steps will be displayed.  
+8. The assesment we uploaded in the above steps will be displayed. It might take some time for all the information to be loaded.    
 
 <img src="/images/uploaded-report-migrate.png">   
 
