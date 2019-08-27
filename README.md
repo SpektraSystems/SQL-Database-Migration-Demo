@@ -239,3 +239,8 @@ These details will be used to generate the PowerShell script that can be used to
 2. Click on the Resource Group named **SQLMI-Shared-RG**
 
 <img src="/images/click-sqlmishared-rg.png">   
+
+3. Click on the **Azure Database Migration Service** named **SQLMigrationDemo-DMS**.  
+
+<img src="/images/click-dms.png">   
+
