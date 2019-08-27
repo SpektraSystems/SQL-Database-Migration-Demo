@@ -244,8 +244,17 @@ These details will be used to generate the PowerShell script that can be used to
 
 <img src="/images/click-dms.png">   
 
-4. The migration Projects available under the **SQLMigrationDemo-DMS** will be displayed as shown below.  
+4. The migration Projects available under the **SQLMigrationDemo-DMS** will be displayed as shown below. Click on the Azure Database Migration Project **Migrate-01**.   
 
 <img src="/images/click-mig-project.png">   
+
+5. The **Overview** section of the **Migrate-01** project will contain the following details:  
+      *  **Source Server**:  The DNS Name of the Source.  
+      *  **Source Version**: The version details of the Source.   
+      *  **Target Server**:  The DNS Name of the Target. 
+      *  **Target Version**: The version details of the target.  
+      
+<img src="/images/mig-project-overview.png">   
+
 
 
