@@ -235,3 +235,7 @@ These details will be used to generate the PowerShell script that can be used to
 1. Login to the Azure Portal with the credentials provided in the Lab details page.  
 
 <img src="/images/azure-credentials.png">   
+
+2. Click on the Resource Group named **SQLMI-Shared-RG**
+
+<img src="/images/click-sqlmishared-rg.png">   
