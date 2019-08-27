@@ -257,4 +257,8 @@ These details will be used to generate the PowerShell script that can be used to
 <img src="/images/mig-project-overview.png">   
 
 
+6. All the ongoing/completed activities will diplayed. To view the details of the migration activity named **Migrate2SQLMI**, click on the activity as shown below.  
+
+<img src="/images/click-mig-activity.png">   
+
 
