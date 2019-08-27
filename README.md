@@ -264,7 +264,7 @@ These details will be used to generate the PowerShell script that can be used to
 7. All the databses which are being migrated will be displayed as shown below. Click on the database **Adworks40** to view the status.    
 <img src="/images/log-shipping-progress.png">   
 
-8.  The migration details of the database will be displayed as below. Under the **Database Status** you can see that the current status is **Log Shipping in progress**. Once the migration is complete, the **Start Cutover** button will be active and the cutover can be performed by clicking the **Start Cutover** button.  
+8.  The migration details of the database will be displayed as below. Under the **Database Status** you can see that the current status is **Log Shipping in progress**. Once the sync is complete, the **Start Cutover** button will be active and the cutover can be performed by clicking the **Start Cutover** button.  
 
 <img src="/images/start-cutover-grey.png">   
 
