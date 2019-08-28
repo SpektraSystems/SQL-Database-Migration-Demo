@@ -100,7 +100,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 30. Point to the **Impact and generated recommendations**.  
 
-31. Click on **Upload to Azure Migrate** button.  
+31. Click on **Upload to Azure Migrate** button. The **Upload to Azure Migrate** button will be greyed out in the begining Once all databases are analyzed, **Upload to Azure Migrate** button becomes functional. 
 
 <img src="/images/compatibilityissues-mi.png">     
 
