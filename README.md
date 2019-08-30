@@ -100,7 +100,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 30. Point to the **Impact and generated recommendations**.  
 
-31. Click on **Upload to Azure Migrate** button. The **Upload to Azure Migrate** button will be greyed out in the begining Once all databases are analyzed, **Upload to Azure Migrate** button becomes functional. 
+31. Click on **Upload to Azure Migrate** button. The **Upload to Azure Migrate** button will be greyed out in the begining, Once all databases are analyzed, **Upload to Azure Migrate** button becomes functional. This may take 2 to 5 minutes depending on number of databases you've selected.
 
 <img src="/images/compatibilityissues-mi.png">     
 
@@ -117,7 +117,7 @@ The goal of this demo is to introduce SQL Server migration using Data Migration 
 
 ## PART 2: Azure Migration   
 
-1. Login to Azure with the credentials provided in the lab details page.  
+1. Login to Azure https://portal.azure.us/signin with the credentials provided in the lab details page.  
 
 <img src="/images/azure-credentials.png">  
 
